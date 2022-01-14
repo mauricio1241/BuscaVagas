@@ -1,2 +1,5 @@
-nose
-sphinx
+requests
+xlsxwriter
+smtplib
+ssl
+email
